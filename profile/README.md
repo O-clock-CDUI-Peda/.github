@@ -1,6 +1,10 @@
-# Concepteur Développeur d'Applications
+# Concepteur Designer User Interface
 
-La formation CDA se base sur le REAC 2023 et à pour but de former aux 3 grands blocs de compétences. Elle se déroule en 10 saisons basées avant tout sur les concepts, appliqués avec TypeScript.
+La formation CDUI se compose de trois grands blocs de compétences :
+
+- Concevoir les éléments graphiques d’une interface et de supports de communication
+- Contribuer à la gestion et au suivi d'un projet de communication numérique
+- Réaliser, améliorer et animer des sites web
 
 Pour voir tout le programme, passez en mode `View as member`.
 
